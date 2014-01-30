@@ -1,0 +1,19 @@
+﻿{
+  "name": "romanNumerals",
+  "version": "0.0.1",
+  "description": "Simple roman numerals kata",
+  "main": "romanTest.js",
+  "scripts": {
+    "test": "jasmine-node roman-spec.js"
+  },
+  "keywords": [
+    "kata",
+    "romanNumerals",
+    "codingDojo"
+  ],
+  "author": "ludovic.pradel@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-node": "~1.13.0"
+  }
+}
